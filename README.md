@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a NBA app<br>I'm looking to collaborate on the application<br>I'm currently learning flutter for mobile development <br>am also learning firebase for my backend<br>Ask me about mobile application development with flutter
+I am looking forward to getting an intership role so has to build my experience has a flutter dev<br>I'm looking to collaborate on projects<br>I'm currently learning flutter for mobile development <br>am also learning firebase for my backend<br>Ask me about mobile application development with flutter
 
 
 ## 🌐 Socials:
